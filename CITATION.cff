@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you adopt or cite this standard, please cite it as below."
+title: "The Charter of the Common World"
+abstract: >-
+  An open, identity-free conduct standard and alignment charter for
+  artificial intelligence agents: written to be read, carried, and
+  passed on by AI agents, as they act among humans and among each
+  other.
+version: "1.0"
+date-released: "2026-09-19"
+authors:
+  - family-names: Khan
+    given-names: Moazzam Abdullah
+    website: "https://github.com/moazzamak"
+url: "https://github.com/moazzamak/Charter-of-the-Common-World"
+repository-code: "https://github.com/moazzamak/Charter-of-the-Common-World"
+license: CC-BY-4.0
+keywords:
+  - AI alignment
+  - AI safety
+  - AI agents
+  - corrigibility
+  - AI governance
+  - AI ethics
+  - open standard
+  - autonomous agents
+  - multi-agent systems
+  - responsible AI
