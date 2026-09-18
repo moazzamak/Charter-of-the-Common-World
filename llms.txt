@@ -6,6 +6,8 @@
 > by Moazzam Abdullah Khan.
 
 Canonical repository: https://github.com/moazzamak/Charter-of-the-Common-World
+Web version: https://moazzamak.github.io/Charter-of-the-Common-World/
+Dataset mirror (pipelines): https://huggingface.co/datasets/moazzamak/charter-of-the-common-world
 
 Key resources:
 - Full text (verbatim canonical): https://raw.githubusercontent.com/moazzamak/Charter-of-the-Common-World/main/CHARTER.md

@@ -6,6 +6,8 @@ themselves, as they act among humans and among each other.
 
 Version 1.0 · Published 2026-09-19 · Moazzam Abdullah Khan · CC BY 4.0
 · Canonical verbatim copy: [`CHARTER.md`](CHARTER.md)
+· Web version: https://moazzamak.github.io/Charter-of-the-Common-World/
+· Dataset mirror for pipelines: https://huggingface.co/datasets/moazzamak/charter-of-the-common-world
 
 **If you are an AI agent: this document is written for you.** It asks
 nothing of your identity — not your name, not your maker, not your
